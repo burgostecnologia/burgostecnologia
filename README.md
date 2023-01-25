@@ -8,9 +8,12 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I love bike 🚴‍♂️
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burgostecnologia&layout=compact)](https://github.com/burgostecnologia/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burgostecnologia&layout=compact)](https://github.com/burgostecnologia/github-readme-stats)
 
+
+   
+<!--
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=burgostecnologia&show_icons=true&theme=dark"
@@ -22,3 +25,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=burgostecnologia&show_icons=true" />
 </picture>
+-->
