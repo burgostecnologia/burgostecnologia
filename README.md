@@ -1,7 +1,7 @@
 ## Olá ! Eu sou o Roberto Burgos 👋
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Spring Boot +( VueJS - vue-router - vuex - vuetify)
+- 🔭 I’m currently working on Java / Javascript
+- 🌱 I’m currently learning Spring Boot + ( VueJS - vue-router - vuex - vuetify)
 - 👯 I’m looking to collaborate on Webapps (frontend + backend)
 - 💬 Ask me about how create apps with Sketchware
 - 📫 How to reach me: burgostecnologia@gmail.com
