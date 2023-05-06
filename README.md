@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on Webapps (frontend + backend)
 - 💬 Ask me about how create apps with Sketchware
 - 📫 How to reach me: burgostecnologia@gmail.com
+- 🎞  https://www.youtube.com/@burgostecnologia
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I love bike 🚴‍♂️
 
